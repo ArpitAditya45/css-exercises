@@ -1,0 +1,11 @@
+.Normal{
+    background-color: black;
+    color:white;
+}
+.Cool{
+    background-color: yellow;
+}
+.Normal,.Cool{
+    font-size: 28px;
+    font-family: 'Times New Roman' ,Helvetica, sans-serif;
+}
